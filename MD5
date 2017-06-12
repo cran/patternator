@@ -1,0 +1,9 @@
+7e2ef3e3125450275a5441c1fe57a0cf *DESCRIPTION
+0728d588b091f34be99da7d9798dbab8 *NAMESPACE
+c675313c9afb4fb0c6a17e0663a5714c *R/clean.R
+fec8b7849d6c13d918981f1c14ff9c8d *R/data.R
+304eab4fe7f005c75083fd145b4480bf *R/extract.R
+2376ee5e09904a857e9d9e314cf3f1e5 *data/anole.rda
+a11289147c38c82ca0a85b14e403dfbf *man/anole.Rd
+afe668aeab10fc76806896122d648a18 *man/clean_patterns.Rd
+b9a6bb2adce00fa93786082da52d51bf *man/extract_features.Rd
